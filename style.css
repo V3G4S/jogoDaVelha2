@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    border-radius: 20px;
+    border: width 6px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    color: white;
+    background-color: gray;
+    font-size: 100px;
+    border-left: 0;
+    border-top: 0;
+    vertical-align: top;
+    cursor: pointer;
+    margin: 2px;
+}
+/* 
+.btjogo0, .btjogo1{
+    padding-top: 0;
+    margin-top: 0;
+
+}
+.btJogo2{
+    border-bottom: 0;
+}
+
+#bt02, #bt12, #bt22{
+    border-right: 0;
+}
+
+button:disabled{
+    border-color: black;
+} */
